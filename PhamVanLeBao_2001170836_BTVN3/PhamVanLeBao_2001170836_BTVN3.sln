@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhamVanLeBao_2001170836_BTVN3", "PhamVanLeBao_2001170836_BTVN3\PhamVanLeBao_2001170836_BTVN3.csproj", "{7F5C913D-35D8-4503-B355-70BAC9DF1015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryOfBao", "ClassLibraryOfBao\ClassLibraryOfBao.csproj", "{C2CF9CC0-98ED-4476-A620-785FD7E981FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5C913D-35D8-4503-B355-70BAC9DF1015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5C913D-35D8-4503-B355-70BAC9DF1015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5C913D-35D8-4503-B355-70BAC9DF1015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5C913D-35D8-4503-B355-70BAC9DF1015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CF9CC0-98ED-4476-A620-785FD7E981FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CF9CC0-98ED-4476-A620-785FD7E981FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CF9CC0-98ED-4476-A620-785FD7E981FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CF9CC0-98ED-4476-A620-785FD7E981FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B2B957-8A19-4343-8749-CD3EB53F1461}
+	EndGlobalSection
+EndGlobal
